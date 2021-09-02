@@ -1,0 +1,22 @@
+# the course structure under nbhosting
+tracks:
+  - name: "Intro à Python"
+    description: "installes et test"
+    id: 
+    sections:
+      - name: intro et test
+        notebooks: [ "notebooks/0-*.py" ]
+      - name: cours primer
+        notebooks: [ "notebooks/2-*.py" ]
+
+builds:
+  - id: handouts
+    name: static html
+    description: searchable static html as produced by jupyter-book
+    directory: notebooks
+    script: |
+      pip install jupyter-book
+      jupyter-book build .
+
+# no mapping needed
+static-mappings: []
