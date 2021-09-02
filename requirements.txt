@@ -1,0 +1,21 @@
+# first we have the core requirements
+# i.e. libraries used for running 
+# code in the notebooks per se
+#
+jupyter
+jupytext
+ipywidgets
+
+numpy
+pandas
+matplotlib
+seaborn
+
+ipythontutor
+nbautoeval
+
+# jupyter extensions
+#
+rise
+jupyter-contrib-nbextensions
+

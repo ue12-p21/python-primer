@@ -1,0 +1,20 @@
+format: jb-book
+root: 0-00-intro
+parts:
+- caption: "intro et installation"
+  chapters:
+  - file: 0-01-test-connaissance-python-de-base
+- caption: "Python"
+  chapters:
+  - file: 1-01-environnement
+  - file: 1-02-un-tour-de-python
+  - file: 1-03-operateurs
+  - file: 1-04-fonctions
+  - file: 1-05-instructions
+  - file: 1-06-types-et-methodes
+  - file: 1-07-containers
+  - file: 1-08-references-partagees
+  - file: 1-09-iterations
+  - file: 1-10-modules
+  - file: 1-11-classes
+  - file: 1-12-help
