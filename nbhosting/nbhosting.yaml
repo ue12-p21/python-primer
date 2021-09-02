@@ -2,12 +2,12 @@
 tracks:
   - name: "Intro à Python"
     description: "installes et test"
-    id: 
+    id: intro
     sections:
       - name: intro et test
-        notebooks: [ "notebooks/0-*.py" ]
+        notebooks: [ "notebooks/0-*.md", "notebooks/0-*.py" ]
       - name: cours primer
-        notebooks: [ "notebooks/2-*.py" ]
+        notebooks: [ "notebooks/1-*.py" ]
 
 builds:
   - id: handouts
