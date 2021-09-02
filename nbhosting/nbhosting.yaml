@@ -1,7 +1,7 @@
 # the course structure under nbhosting
 tracks:
   - name: "Intro à Python"
-    description: "installes et test"
+    description: "installes, autotest et primer"
     id: intro
     sections:
       - name: intro et test
@@ -11,8 +11,8 @@ tracks:
 
 builds:
   - id: handouts
-    name: static html
-    description: searchable static html as produced by jupyter-book
+    name: format HTML
+    description: contenu statique et cherchable
     directory: notebooks
     script: |
       pip install jupyter-book
