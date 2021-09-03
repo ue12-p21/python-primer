@@ -5,6 +5,7 @@
 jupyter
 jupytext
 ipywidgets
+calysto_bash
 
 numpy
 pandas
