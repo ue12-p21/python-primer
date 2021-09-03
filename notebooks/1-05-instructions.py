@@ -18,6 +18,8 @@
 #     name: python
 #     nbconvert_exporter: python
 #     pygments_lexer: ipython3
+#   nbhosting:
+#     title: instructions
 # ---
 
 # %% [markdown] slideshow={"slide_type": "slide"}

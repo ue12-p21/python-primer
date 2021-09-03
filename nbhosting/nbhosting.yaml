@@ -1,11 +1,11 @@
 # the course structure under nbhosting
 tracks:
   - name: "Intro à Python"
-    description: "installes, autotest et primer"
+    description: "autotest, installes et primer"
     id: intro
     sections:
-      - name: intro et test
-        notebooks: [ "notebooks/0-*.md", "notebooks/0-*.py" ]
+      - name: autotest et installes
+        notebooks: [ "notebooks/0-*.py" ]
       - name: cours primer
         notebooks: [ "notebooks/1-*.py" ]
 

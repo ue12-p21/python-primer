@@ -17,6 +17,8 @@
 #   language_info:
 #     name: python
 #     pygments_lexer: ipython3
+#   nbhosting:
+#     title: test autoévalué
 # ---
 
 # %% [markdown]

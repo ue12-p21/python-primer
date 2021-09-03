@@ -17,6 +17,8 @@
 #   language_info:
 #     name: python
 #     pygments_lexer: ipython3
+#   nbhosting:
+#     title: un petit tour
 # ---
 
 # %% [markdown] slideshow={"slide_type": "slide"}
