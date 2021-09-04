@@ -330,8 +330,8 @@ foo(1000)
 # ## exercices - avancés
 
 # %% [markdown] cell_style="center"
-# https://nbhosting.inria.fr/auditor/notebook/python-mooc:exos/w4/w4-s3-x1-pgcd  
-# https://nbhosting.inria.fr/auditor/notebook/python-mooc:exos/w4/w4-s3-x4-power
+# https://nbhosting.inria.fr/auditor/notebook/exos-mooc:exos/w4/w4-s3-x1-pgcd  
+# https://nbhosting.inria.fr/auditor/notebook/exos-mooc:exos/w4/w4-s3-x4-power
 
 # %% [markdown] cell_style="split" slideshow={"slide_type": ""}
 # écrire une fonction qui calcule la puissance entière

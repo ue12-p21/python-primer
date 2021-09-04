@@ -20,7 +20,6 @@
 #     pygments_lexer: ipython3
 #   nbhosting:
 #     title: "notebook de d\xE9mo"
-#   version: '1.0'
 # ---
 
 # %% [markdown]

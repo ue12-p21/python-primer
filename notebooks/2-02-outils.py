@@ -21,7 +21,6 @@
 #     name: bash
 #   nbhosting:
 #     title: outils (2)
-#   version: '1.0'
 # ---
 
 # %% [markdown]
