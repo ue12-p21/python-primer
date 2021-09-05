@@ -152,7 +152,36 @@ echo "hey there"
 #   `2-98-checklist.md`](https://nbhosting.inria.fr/auditor/notebook/ue12-p21-python-primer/notebooks/2-98-checklist)
 #   * à terminer pour la prochaine fois si nécessaire
 
-# %% [markdown] slideshow={"slide_type": ""}
+# %% [markdown]
+# ### niveaux de lecture
+
+# %% [markdown]
+# on a défini plusieurs niveaux de lecture, parfois représentées avec des couleurs
+
+# %% [markdown] tags=["level_basic"]
+# #### basique
+
+# %% [markdown] tags=["level_intermediate"]
+# #### intermédiaire
+
+# %% [markdown] tags=["level_advanced"]
+# #### avancé
+
+# %% [markdown]
+# pour que les couleurs apparaissent bien (lorsque vous lisez les notebooks en local sur votre ordi), vous devez avoir installé 
+#
+# ```bash
+# pip install nb-courselevels
+# ```
+
+# %% [markdown] tags=["framed_cell"]
+# #### cadres
+#
+# parfois aussi les cellules apparaissent avec un cadre comme celle-ci
+#
+# et de la même façon pour que cela fonctionne il vous avoir installé `nb-courselevels` 
+
+# %% [markdown] slideshow={"slide_type": ""} tags=[]
 # ## OS
 
 # %% [markdown] slideshow={"slide_type": ""}
