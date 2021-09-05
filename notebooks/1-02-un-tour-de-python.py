@@ -16,6 +16,7 @@
 #     name: python3
 #   language_info:
 #     name: python
+#     nbconvert_exporter: python
 #     pygments_lexer: ipython3
 #   nbhosting:
 #     title: un petit tour

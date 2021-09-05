@@ -16,9 +16,10 @@
 #     name: python3
 #   language_info:
 #     name: python
+#     nbconvert_exporter: python
 #     pygments_lexer: ipython3
 #   nbhosting:
-#     title: test autoévalué
+#     title: "test auto\xE9valu\xE9"
 # ---
 
 # %% [markdown]

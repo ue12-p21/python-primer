@@ -86,7 +86,7 @@
 # problèmes/questions sur *discourse* pour qu'on y regroupe les réponses aux mêmes
 # problèmes.
 
-# %% [markdown] tags=[]
+# %% [markdown]
 # > micro démo de Visual Code sur le fichier `foo.txt`
 #
 # * depuis le terminal, aller dans le bon répertoire et lancer
@@ -338,7 +338,7 @@
 # %% [markdown]
 # ## Python
 
-# %% [markdown] tags=[]
+# %% [markdown]
 # ### installation de base
 #
 # * il y a de très nombreuses distributions disponibles
@@ -730,7 +730,7 @@ python ../demo/fact-broken.py
 # %% [markdown]
 # ### les notions de base
 
-# %% [markdown] tags=[]
+# %% [markdown]
 # * un dépôt (en anglais *repo*) :
 #   * ça ressemble à **un répertoire** avec **tout son contenu**
 #   * mais ça contient aussi **toutes les versions** successives
@@ -907,7 +907,7 @@ git --version
 # pip install jupytext
 # ```
 
-# %% [markdown] tags=[]
+# %% [markdown]
 # #### vérification
 
 # %% [markdown]
@@ -1137,7 +1137,7 @@ jupyter --version
 # * c'est pourquoi si `pylint` n'est pas installé, vs-code va automatiquement vous proposer
 #   de le faire (choisissez alors de préférence l'option *install with pip*)
 
-# %% [markdown] tags=[]
+# %% [markdown]
 # pour information, le terme `lint` ou `linter` désigne, de manière générique, un outil qui
 # fait des vérifications statiques (i.e. sans faire tourner le code); ça existe pour
 # beaucoup de langages
@@ -1183,7 +1183,7 @@ jupyter --version
 # %% [markdown]
 # ![](media/fig-vscode-show-errors.png)
 
-# %% [markdown] tags=[]
+# %% [markdown]
 # **Avertissement**
 #
 # Il faut toutefois toujours garder à l'esprit que cette phase de détection préliminaire des
@@ -1212,7 +1212,7 @@ jupyter --version
 # Jupyter est un système extensible; sur nbhosting on a activé quelques-unes de ces
 # extensions, et voici comment vous pouvez les activer également de votre côté
 
-# %% tags=[]
+# %%
 # d'abord on installe les extensions standard
 
 pip install -U ipywidgets
@@ -1221,7 +1221,7 @@ jupyter nbextension enable --py widgetsnbextension
 pip install -U jupyter_contrib_nbextensions
 jupyter contrib nbextension install
 
-# %% tags=[]
+# %%
 # puis on active celles qui nous intéressent
 
 # la table des matières navigable

@@ -181,7 +181,7 @@ echo "hey there"
 #
 # et de la même façon pour que cela fonctionne il vous avoir installé `nb-courselevels` 
 
-# %% [markdown] slideshow={"slide_type": ""} tags=[]
+# %% [markdown] slideshow={"slide_type": ""}
 # ## OS
 
 # %% [markdown] slideshow={"slide_type": ""}
@@ -312,7 +312,7 @@ echo "hey there"
 # passe administrateur, c'est que vous vous êtes fourvoyés et qu'il faut changer d'angle
 # d'attaque
 
-# %% [markdown] slideshow={"slide_type": ""} tags=[]
+# %% [markdown] slideshow={"slide_type": ""}
 # ## le terminal
 
 # %% [markdown]
@@ -384,7 +384,7 @@ tutu
 # ici le ':' est un séparateur
 echo $PATH
 
-# %% [markdown] tags=[]
+# %% [markdown]
 # ### installation de  `bash`
 
 # %% [markdown]
@@ -541,7 +541,7 @@ cat /home/jovyan/work/notebooks/foo.txt
 # cat foo.txt
 # ```
 
-# %% [markdown] tags=[]
+# %% [markdown]
 # ### chemins relatifs
 
 # %% [markdown] tags=["level_intermediate"]
@@ -553,16 +553,16 @@ cat /home/jovyan/work/notebooks/foo.txt
 #
 # car le répertoire `.` désigne justement le répertoire courant
 
-# %% [markdown] tags=[]
+# %% [markdown]
 # par convention `..` désigne le répertoire "au dessus" du répertoire courant  
 # on l'utilise pour fabriquer des chemins du genre de
 #
 #     cat ../frere/neveu
 
-# %% [markdown] tags=[]
+# %% [markdown]
 # pour "remonter" dans l'arborescence des dossiers, je peux donc utiliser un chemin relatif
 
-# %% tags=[]
+# %%
 pwd
 
 # %%

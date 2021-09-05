@@ -92,7 +92,7 @@
 # %% [markdown]
 # ### images
 
-# %% [markdown] tags=[]
+# %% [markdown]
 # pour les images enfin, c'est un peu la même syntaxe que les liens, mais avec un `!`
 # devant, ça donne ceci
 #
@@ -106,7 +106,7 @@
 #
 # ***
 
-# %% [markdown] tags=[]
+# %% [markdown]
 # **remarque** : les deux exemples précédents sont différents à un autre titre
 #
 # * le premier utilise une **URL distante** (sur le site du consortium W3C)
