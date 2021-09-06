@@ -18,3 +18,9 @@ parts:
   - file: 1-10-modules
   - file: 1-11-classes
   - file: 1-12-help
+- caption: "Installations"
+  chapters:
+  - file: 2-01-intro
+  - file: 2-02-outils
+  - file: 2-10-demonstration
+  - file: 2-98-checklist
