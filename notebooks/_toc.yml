@@ -24,3 +24,4 @@ parts:
   - file: 2-02-outils
   - file: 2-10-demonstration
   - file: 2-98-checklist
+  - file: 2-99-exos-optionnels
