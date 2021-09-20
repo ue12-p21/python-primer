@@ -235,7 +235,7 @@ else:
     print(f'{x} est impair')
 
 # %% [markdown]
-# python utilise l'indentation pour déterminer le block auquel appartient une instruction
+# python utilise l'indentation pour déterminer le bloc auquel appartient une instruction
 
 # %% cell_style="split"
 x = 3
