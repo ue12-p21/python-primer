@@ -1,1 +1,1 @@
-# Cours introductif: Python
+# Python numérique: numpy, pandas et matplotlib
