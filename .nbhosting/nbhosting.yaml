@@ -9,7 +9,7 @@ tracks:
       - name: cours primer
         notebooks: [ "notebooks/1-*.py" ]
       - name: installations
-        notebooks: [ "notebooks/2-*.py" ]
+        notebooks: [ "notebooks/2-*.md" ]
 
 builds:
   - id: handouts
