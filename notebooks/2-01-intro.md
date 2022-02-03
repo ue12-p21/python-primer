@@ -52,6 +52,10 @@ https://nbhosting.inria.fr/auditor/notebook/ue12-p21-python-primer
 
 +++
 
+![](media/nbhosting-shrink.gif)
+
++++
+
 ### *Shift-Enter*
 
 +++
@@ -197,7 +201,7 @@ pip install nb-courselevels
 
 parfois aussi les cellules apparaissent avec un cadre comme celle-ci
 
-et de la même façon pour que cela fonctionne il vous avoir installé `nb-courselevels` 
+et de la même façon pour que cela fonctionne il vous avoir installé `nb-courselevels`
 
 +++ {"slideshow": {"slide_type": ""}}
 
